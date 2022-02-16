@@ -1,2 +1,3 @@
-# AndroidApp_R00
-Android App to monitor and manipulate panel controls
+# dmxc_m00_r00_cp_r00
+DMX Controller Model 0 Rev. 0, Control Program Rev. 0
+Control Program for DMX Controller
